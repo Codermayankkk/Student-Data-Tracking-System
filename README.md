@@ -30,4 +30,5 @@ Setup Instructions
 Clone the repository.
 
 Configure the database connection in hibernate.cfg.xml.
+
 Run the application to manage student records.
