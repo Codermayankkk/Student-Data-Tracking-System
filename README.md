@@ -18,8 +18,7 @@ Hibernate: ORM framework for database interaction.
 
 MySQL: Database for storing student records.
 
-Prerequisites
-
+## Prerequisites
 Java Development Kit (JDK)
 
 MySQL Server
